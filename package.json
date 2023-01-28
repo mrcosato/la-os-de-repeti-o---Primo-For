@@ -1,0 +1,18 @@
+{
+  "name": "numeroprimofor",
+  "version": "1.0.0",
+  "description": "Verfica se um valor informado corresponde a um numero primo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Numero",
+    "primo"
+  ],
+  "author": "Marcos Sato",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
